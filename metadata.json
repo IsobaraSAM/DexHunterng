@@ -1,0 +1,6 @@
+{
+  "name": "DEXHUNTER",
+  "description": "A crypto token discovery and multi-source aggregation platform featuring intelligent DEX prioritization, real-time listings, trending charts, and advanced filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
